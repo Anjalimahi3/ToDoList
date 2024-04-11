@@ -6,13 +6,14 @@
 <meta charset="ISO-8859-1">
 <title>Index-To Do List</title>
 <link rel="stylesheet" href="index.css">
+
 </head>
 <body>
 <div>
-		<a href="Login">Login</a>
+		<a href="login.jsp">Login</a>
 		<br>
 		<br>
-		<a href="Signup">Signup</a>
+		<a href="signup.jsp">signin</a>
 		</div>
 </body>
 </html>

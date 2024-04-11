@@ -5,6 +5,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
+<link rel="stylesheet" href="login.css">
 </head>
 <body>
 <div>
@@ -18,7 +19,7 @@
 <input type="text" name="password" id="password">
 <br>
 <br>
-<input type="submit">
+<input id="sub" type="submit">
 </form>
 </div>
 </body>
